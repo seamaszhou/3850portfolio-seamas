@@ -1,0 +1,30 @@
+nav #toggleN{
+  font-family: 'Permanent Marker', cursive;
+  color: #34495e;
+}
+nav{
+
+  width: 200px;
+}
+
+nav ul{
+  font-family: 'lato';
+  font-weight: 300;
+}
+
+
+@font-face {
+  font-family: lulo;
+  src: url("../fonts/Lulo Clean One Bold.otf");
+}
+
+
+.pdfobject-container { height: 1000px;}
+.pdfobject { border: 1px solid #666; }
+#Product{font-family: lulo; color: #34495e}
+#Product p{font-family: lato; font-size: 20px;}
+#Process{font-family: lulo; color: #34495e}
+#Process p{font-family: lato; font-size: 20px;}
+#Report{font-family: lulo; color: #34495e}
+#reference h2{font-family: lato;font-size: 20px;}
+#reference{font-family: lulo; color: #34495e}
